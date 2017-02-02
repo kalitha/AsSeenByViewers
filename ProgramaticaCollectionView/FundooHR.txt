@@ -1,0 +1,9 @@
+{
+  "dashboard" :
+  {
+   "attendanceSummary" : {"marked" : "67" , "unmarked" : "03"},
+   "attendanceFallout" : {"falloutNumber": "7", "totalEmployee": "58"},
+   "leaveSummary" : {"leave" : "12"},
+   "timeStamp" : "1477308028"
+  }
+}
